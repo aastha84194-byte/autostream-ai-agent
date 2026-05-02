@@ -6,7 +6,7 @@ This project is a Conversational AI Agent built for **AutoStream**, a fictional 
 - Answer pricing and policy questions using a local Knowledge Base (RAG).
 - Capture lead details (Name, Email, Platform) and trigger a mock tool.
 
-### 2. Tech Stack
+### 2. Tech Stack using
 - **Python 3.14+**
 - **Custom Intent Classification & State Management**
 - **JSON-based Knowledge Retrieval**
